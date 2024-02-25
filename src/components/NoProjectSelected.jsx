@@ -4,7 +4,7 @@ export default function NoProjectSelected({ onStartAddProject }) {
   return (
     <div className="mt-24 text-center w-2/3">
       <img
-        src="../public/logo.png"
+        src="../logo.png"
         alt="An empty task list"
         className="w-16 h-16 object-contain mx-auto"
       />
